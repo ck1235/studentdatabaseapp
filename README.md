@@ -1,0 +1,1 @@
+Student database application to manage student enrollments and balance
